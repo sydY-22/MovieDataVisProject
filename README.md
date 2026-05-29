@@ -1,4 +1,4 @@
-# MovieDataVisProject
+# Movie Data Visualization Project:
 This analysis explores the central business question: How do budget, rating, and
 popularity correlate with movie revenue? Using a comprehensive movie dataset, we
 examine patterns across financial investment, audience reception, and market
