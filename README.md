@@ -5,7 +5,7 @@ examine patterns across financial investment, audience reception, and market
 performance. The goal is to uncover meaningful relationships that can inform
 production, marketing, and distribution strategies in the film industry.
 
-# Created Business Dashboard:
+# Created Interactive Business Dashboard:
 ![Interactive Dashboard](images/dashboard.png)
 
 
